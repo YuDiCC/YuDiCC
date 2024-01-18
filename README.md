@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" /> 
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" /> 
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="Canva" /> 
-  <img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white" alt="Prezi" /> 
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white" alt="Trello" />   
 </p>
 
