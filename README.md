@@ -46,6 +46,4 @@
 
 
 ---
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=YuDiCC&icon=7&color=6" /></a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
