@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/YuDiCC/YuDiCC/blob/main/Portada_Github_yudicc.gif" alt="Portada Github" width="100%"/>
+</p>
+
+
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I am a student of Engineering</h3>
 
