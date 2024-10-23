@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://codepen.io/YuDiCC"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen de Yudi" /></a>
   <a href="https://www.linkedin.com/in/yudicc"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Yudi" /></a>
+  <a href="https://x.com/YuDiCC_04"><img src="https://img.shields.io/badge/@YuDiCC_04-black?style=for-the-badge&logo=X&logoColor=white" alt="LinkedIn de Yudi" /></a>
   <a href="https://www.instagram.com/ale_calan04"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram de Yudi" /></a>
 </p>
 
@@ -30,20 +31,16 @@
 <h2>🌱 Actualmente estoy aprendiendo:</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
 </p>
 
 <h2>📊 GitHub Stats:</h1>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YuDiCC&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="yudicc" />
-</p>
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuDiCC&theme=nightowl&hide_border=false" alt="yudicc" />
-</p>
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuDiCC&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yudicc" />
 </p>
 
@@ -58,4 +55,7 @@
 </p>
 
 ---
+Gracias por visitar mi perfil. ¡Estoy emocionada por colaborar en proyectos y aprender más del fascinante mundo del desarrollo web! 🚀
+
+[![](https://visitcount.itsvg.in/api?id=YuDiCC&icon=7&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
