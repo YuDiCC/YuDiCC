@@ -46,16 +46,17 @@
 
 <h2>🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YuDiCC&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="yudicc" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YuDiCC&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="yudicc" />
 </p>
 
 <h3>🔝 Top Contributed Repo</h3>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YuDiCC&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="yudicc" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=YuDiCC&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="yudicc" />  
 </p>
 
 ---
 Gracias por visitar mi perfil. ¡Estoy emocionada por colaborar en proyectos y aprender más del fascinante mundo del desarrollo web! 🚀
 
-[![](https://visitcount.itsvg.in/api?id=YuDiCC&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YuDiCC&icon=7&color=6)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
