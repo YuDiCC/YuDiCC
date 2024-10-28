@@ -2,9 +2,18 @@
   <img src="https://github.com/YuDiCC/YuDiCC/blob/main/Portada_Github_yudicc.gif" alt="Portada Github" width="100%"/>
 </p>
 
+<h1 align="center">Welcome to My Repository! 👋</h1>
+<p align="center">Hello! I'm Yudi, dedicated to Front-End web development and continuous learning. Here I share my projects and experiments in the world of programming.</p>
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I am a student of Engineering</h3>
+<h2>About Me 🌟</h2>
+<ul>
+  <li>🌟 Passionate about technology and innovation, always looking for ways to apply my skills to solve problems.</li>
+  <li>📚 Student at the Instituto Tecnológico Superior de Calkiní, focused on Computer Engineering.</li>
+  <li>💻 I specialize in Front-End development, with experience in HTML, CSS, and JavaScript.</li>
+  <li>🚀 Always seeking new challenges and opportunities to grow as a developer; I enjoy collaborating on open projects and learning from others.</li>
+  <li>🌱 Currently exploring new technologies and tools to improve my skills.</li>
+</ul>
+
 
 <h2>🌐 Socials:</h2>
 <p align="center">
@@ -12,6 +21,7 @@
   <a href="https://www.linkedin.com/in/yudicc"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Yudi" /></a>
   <a href="https://x.com/YuDiCC_04"><img src="https://img.shields.io/badge/@YuDiCC_04-black?style=for-the-badge&logo=X&logoColor=white" alt="LinkedIn de Yudi" /></a>
   <a href="https://www.instagram.com/ale_calan04"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram de Yudi" /></a>
+  <a href="mailto:7243@itescam.edu.mx"><img src="https://img.shields.io/badge/Email-%23E34F26.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h2>💻 Tech Stack:</h1>
@@ -28,7 +38,7 @@
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello"/>
 </p>
 
-<h2>🌱 Actualmente estoy aprendiendo:</h1>
+<h2>🌱 Currently Learning:</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -55,7 +65,7 @@
 </p>
 
 ---
-Gracias por visitar mi perfil. ¡Estoy emocionada por colaborar en proyectos y aprender más del fascinante mundo del desarrollo web! 🚀
+Thank you for visiting my profile. I'm excited to collaborate on projects and learn more about the fascinating world of web development! 🚀
 
 [![](https://visitcount.itsvg.in/api?id=YuDiCC&icon=7&color=6)](https://visitcount.itsvg.in)
 
